@@ -3,7 +3,7 @@
 - 👀 I’m interested in cloud architecture, Infrastructure, automation, and continuous integration/continuous deployment (CI/CD) practices.
 - 🌱 I’m currently learning about advanced Kubernetes concepts and serverless architecture.
 - 💞️ I’m looking to collaborate on open-source projects and innovative DevOps solutions.
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/bharathkumar-pakala/) or email me at bharathkumar17aug@example.com.
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/bharathkumar-pakala/) or email me at bharathkumar17aug@gmail.com.
 
 ## Hands-on Key Skills
 - ☁️ **AWS Cloud**
@@ -13,6 +13,8 @@
 - ☸️ **Orchestration:** Kubernetes
 - ⌨️ **Scripting:** Shell Scripting
 - 🐧 **Operating Systems:** Linux
+
+**Currently looking for new opportunities!**
 
 <!---
 bharaths17/bharaths17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
